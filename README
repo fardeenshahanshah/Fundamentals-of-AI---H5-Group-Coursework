@@ -1,52 +1,29 @@
-# Fundamentals of AI: H5 Group Coursework 
+# Welcome to H5's Fundamentals of AI Group Coursework
 
-![Module](https://img.shields.io/badge/Module-Fundamentals%20of%20AI-lightgreen)
-![Group](https://img.shields.io/badge/Group-H5-orange)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+Programme: MSc Artificial Intelligence for Medicine and Health
 
-🌐 **Website:** [Project page](https://fardeenshahanshah.github.io/Fundamentals-of-AI---Group-Coursework-H5-/)
-📖 **Wiki:** [Read the documentation](https://github.com/fardeenshahanshah/Fundamentals-of-AI---Group-Coursework-H5-/wiki)
+Status: In progress
+
+**Website:** [Project page](https://fardeenshahanshah.github.io/Fundamentals-of-AI---Group-Coursework-H5-/)
+**Repository:** [View the code and files](https://github.com/fardeenshahanshah/Fundamentals-of-AI---Group-Coursework-H5-)
 
 ---
 
-## 📌 Overview 
+## Team
 
-- To be added
+- Emily Chan
+- Harry Xenofontos
+- Fardeen Shahanshah
+- Elsa Nartey
+- Emily Taylor
+- Maheen Ejaz
 
-## 👥 Team 
+**Mentor:** Noah
 
-| Name | Email ID
-|------|------|
-| [Emily	Chan] | [ia24822@bristol.ac.uk] |
-| [Harry	Xenofontos] | [lf26317@bristol.ac.uk] |
-| [Fardeen	Shahanshah] | [bk26336@bristol.ac.uk]
-| [Elsa	Nartey] | [us26525@bristol.ac.uk] |
-| [Emily	Taylor] | [xu26994@bristol.ac.uk] |
-| [Maheen	Ejaz] | [wd23786@bristol.ac.uk] |
+## Overview
 
-## Mentor : Noah
+To be added
 
+## Supplementary Files
 
-## 📁 Repository Structure
-
-| Folder | Contents |
-|--------|----------|
-| `report/` | Final written report |
-| `code/` | Notebooks and scripts |
-| `data/` | Datasets used |
-| `docs/images/` | Figures and screenshots |
-
-## ▶️ How to Run
-
-1. Clone the repo: `git clone https://github.com/fardeenshahanshah/Fundamentals-of-AI---Group-Coursework-H5-.git`
-2. Install requirements: `pip install -r requirements.txt`
-3. Open `code/[your-notebook].ipynb` and run all cells
-
-## 📊 Key Results
-
-- To be added
-
-## 📚 References
-
-- To be added
+To be added
