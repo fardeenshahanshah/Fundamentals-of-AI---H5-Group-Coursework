@@ -22,7 +22,9 @@ Status: In progress
 
 ## Overview
 
-To be added
+This study investigates whether routine longitudinal data from 2023–2024, including demographics, prior acute visits, medication starts, procedures, and recorded clinical and psychosocial histories and measurements, can identify patients at risk of emergency or urgent care use in 2025, in order to support proactive care and more efficient resource allocation. With a dataset of 98 synthetic patients, of whom only 10 (10.2\%) attended emergency or urgent care in 2025, we evaluated linear classifiers, decision trees and random forests with repeated stratified cross-validation, and examined subgroup fairness and feature effects. The best model, a class-weighted logistic (log-loss) classifier, ranked patients moderately well (ROC AUC = 0.74)  and catches about 6 in 10 cases, but with low precision (0.19) and poorly calibrated probabilities. In the linear model, prior acute visits and sex were the strongest predictors, and subgroup fairness differed most between sexes, with females flagged as high risk for acute care use about twice as often as males (51\% vs 27\%). Given the limitations discussed, the current model’s operating characteristics are not reliable or robust enough to inform proactive care. However, with proper refinement and validation, such a tool could benefit healthcare systems by identifying at-risk patients earlier. This could enable more proactive, personalised care and potentially ease pressure on emergency and urgent care services. 
+
+
 
 ## Supplementary Files
 
